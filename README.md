@@ -1,15 +1,16 @@
 # Predicting the Prevalence Rate for Multiple Chronic Diseases Using Machine Learning
 
-# System Requirements
+## System Requirements
 - Python 3.7 and above
 - Pandas, Sci-kit learn, NumPy, Matplotlib
 
 
-  # Dataset:
+
+  ## Dataset:
 -  A dataset that has already been cleaned and preprocessed and that contains relevant characteristics relating to the prevalence of chronic diseases, demography, 
   lifestyle factors, and socio-economic indicators is called a preprocessed dataset.
 
-# Trained model of machine learning:
+## Trained model of machine learning:
 - A machine learning model built in Python and trained on the dataset, with the goal of predicting the prevalence rates of hypertension, 
   diabetes, and obesity.
 
